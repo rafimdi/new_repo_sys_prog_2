@@ -1,0 +1,5 @@
+the file extension of the tested file is: .log
+the test file size is: 61 bytes 
+the file was created on 11/12/2016  19:27
+the file was last modified on 11/12/2016  19:28
+The file’s first 5 bytes are: aksjf

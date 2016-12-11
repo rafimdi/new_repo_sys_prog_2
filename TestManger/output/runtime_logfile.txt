@@ -1,0 +1,116 @@
+Successfully created a process with ID 8148 to execute TestFile.exe file2.txt output\file2_log.txt
+Successfully created a process with ID 8620 to execute TestFile.exe file3.log output\file3_log.txt
+Successfully created a process with ID 10096 to execute TestFile.exe file4.txt output\file4_log.txt
+Successfully created a process with ID 9796 to execute TestFile.exe file5.txt output\file5_log.txt
+List of running processes:
+Process 8148 running command TestFile.exe file2.txt output\file2_log.txt for 7 seconds and 707 milliseconds
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 7 seconds and 717 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 7 seconds and 727 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 7 seconds and 737 milliseconds
+List of running processes:
+Process 8148 running command TestFile.exe file2.txt output\file2_log.txt for 7 seconds and 767 milliseconds
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 7 seconds and 777 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 7 seconds and 787 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 7 seconds and 797 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 7 seconds and 827 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 7 seconds and 837 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 7 seconds and 847 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 7 seconds and 887 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 7 seconds and 897 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 7 seconds and 907 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 7 seconds and 947 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 7 seconds and 957 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 7 seconds and 967 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 8 seconds and 7 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 17 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 27 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 8 seconds and 67 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 77 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 87 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 8 seconds and 127 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 137 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 147 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 8 seconds and 187 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 197 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 207 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 8620 running command TestFile.exe file3.log output\file3_log.txt for 0 seconds and 9 milliseconds
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 257 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 267 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 307 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 317 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 367 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 377 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 427 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 437 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 487 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 497 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 547 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 557 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 607 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 617 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 8 seconds and 667 milliseconds
+Process 10096 running command TestFile.exe file4.txt output\file4_log.txt for 8 seconds and 677 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of running processes:
+Process 9796 running command TestFile.exe file5.txt output\file5_log.txt for 0 seconds and 9 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+Process 10096 ran command TestFile.exe file4.txt output\file4_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+List of finished processes:
+Process 8148 ran command TestFile.exe file2.txt output\file2_log.txt and exited with exit code after 0 seconds and 2 milliseconds
+Process 8620 ran command TestFile.exe file3.log output\file3_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+Process 9796 ran command TestFile.exe file5.txt output\file5_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+Process 10096 ran command TestFile.exe file4.txt output\file4_log.txt and exited with exit code after 0 seconds and 1 milliseconds
+All the processes have finished running. Exiting program.

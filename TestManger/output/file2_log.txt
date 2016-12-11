@@ -1,0 +1,5 @@
+the file extension of the tested file is: .txt
+the test file size is: 60 bytes 
+the file was created on 11/12/2016  17:52
+the file was last modified on 11/12/2016  18:21
+The file’s first 5 bytes are: ijnjn
